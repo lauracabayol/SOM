@@ -1,1 +1,1 @@
-from .self_organising_map import SOM
+from .self_org_map import SOM
